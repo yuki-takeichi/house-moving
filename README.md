@@ -13,6 +13,9 @@
 
 ## How to contribute
 
+Any contribution is welcomed!
+Follows are examples:
+
 * issueの追加
 * issueへのコメント
 * 引越し祝い
